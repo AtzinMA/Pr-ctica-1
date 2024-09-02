@@ -7,6 +7,10 @@ La primera práctica del laboratorio de robótica consiste en la instalación de
 
 Epson es líder mundial en automatización industrial y ofrece una impresionante combinación de alto rendimiento y simplicidad. Respaldados por una reputación mundial por su fiabilidad y soporte excepcionales, los robots industriales Epson están proporcionando sistemas de fabricación automatizada y altamente productiva a un conjunto cada vez más amplio de sectores industriales en todo el mundo. 
 ## Instrucciones
+1.- Instalar el programa EpsonRC+ correctamente
+Primeramente, se descargó el archivo comprimido que contenía los archivos necesarios para instalar el programa.
+![image](https://github.com/user-attachments/assets/230541df-64ae-4f64-868e-cd82b81694c4)
+
 
 ## Movimiento del robot en world y joint
 "World" y "Joint," son dos diferentes modos de mover el brazo robótico.
