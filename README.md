@@ -41,9 +41,6 @@ En el apartado de Jog & Teach se podrá visualizar botones que representan las a
 ![image](https://github.com/user-attachments/assets/e0a0d600-6570-489a-80d5-9896263f1f3f)
 
 ### 2.- Conexión al Robot Epson C4
-
-![image](https://github.com/user-attachments/assets/c16910b5-d8a9-4ef5-b11f-11ff1ca1e917)
-
 Para conectar nuestra laptop y el programa al robot físico se necesita primero conectar el cable USB a nuestro dispositivo.
 
 ![image](https://github.com/user-attachments/assets/7333fc0b-15e4-422a-bf1c-8f562e39c8fa)
