@@ -51,7 +51,7 @@ Posteriormente se selecciona en el programa el tipo de conexión USB.
 
 Luego simplemente volvemos a correr el Robot Manager y empezamos a jugar con los joysticks.
 
-3.- Conocer las partes del robot
+### 3.- Conocer las partes del robot
 
 El diseño del C4 de Epson es líder en los robots de 6 ejes compactos y posee una exclusiva altura de muñeca compacta y un diseño delgado del codo. Los robots C4 de Epson tienen excelente flexibilidad y fueron hechos para realizar grandes trabajos en espacios pequeños. Funciona con cargas útiles de hasta 4 kg mientras mantiene rápidas velocidades y tiempo de ciclo. [2]
 
