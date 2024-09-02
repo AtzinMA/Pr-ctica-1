@@ -7,7 +7,7 @@ La primera práctica del laboratorio de robótica consiste en la instalación de
 
 Epson es líder mundial en automatización industrial y ofrece una impresionante combinación de alto rendimiento y simplicidad. Respaldados por una reputación mundial por su fiabilidad y soporte excepcionales, los robots industriales Epson están proporcionando sistemas de fabricación automatizada y altamente productiva a un conjunto cada vez más amplio de sectores industriales en todo el mundo. [1]
 ## Instrucciones
-1.- Instalar el programa EpsonRC+ correctamente
+### 1.- Instalar el programa EpsonRC+ correctamente
 Primeramente, se descargó el archivo comprimido que contenía los archivos necesarios para instalar el programa.
 
 ![image](https://github.com/user-attachments/assets/230541df-64ae-4f64-868e-cd82b81694c4)
@@ -40,7 +40,7 @@ En el apartado de Jog & Teach se podrá visualizar botones que representan las a
 
 ![image](https://github.com/user-attachments/assets/e0a0d600-6570-489a-80d5-9896263f1f3f)
 
-2.- Conexión al Robot Epson C4
+### 2.- Conexión al Robot Epson C4
 
 ![image](https://github.com/user-attachments/assets/c16910b5-d8a9-4ef5-b11f-11ff1ca1e917)
 
@@ -94,13 +94,13 @@ El motor se alimenta con 220V mediante un tipo de enchufe especial.
 
 ![image](https://github.com/user-attachments/assets/3f131ee0-a510-45b7-9870-c633e883cd38)
 
-## Movimiento del robot en world y joint
+### 3.- Movimiento del robot en world y joint
 "World" y "Joint," son dos diferentes modos de mover el brazo robótico.
 
 1.	Movimiento "World" (o cartesiano): En este modo, el movimiento del brazo robótico se especifica en términos de un sistema de coordenadas cartesiano, que se refiere a la posición del brazo en el espacio. En el modo "World" se puede mover el brazo en línea recta a lo largo de los ejes X, Y y Z del sistema de coordenadas. Esto es útil para tareas que requieren un movimiento lineal y preciso del efector final a través del espacio.
 
 2.	Movimiento "Joint": En este modo el movimiento se controla a nivel de cada articulación individual del brazo robótico. En lugar de especificar posiciones en un espacio tridimensional aquí se controla directamente los ángulos de cada una de las articulaciones del brazo.
-## Análisis de las Diferencias
+## 4.- Análisis de las Diferencias
 •	Sistema de Control:
 
 La principal diferencia entre los modos "World" y "Joint" radica en cómo se controla el movimiento del brazo robótico. El modo "World" utiliza coordenadas cartesianas para definir la posición y orientación del efector final en el espacio, mientras que el modo "Joint" controla el movimiento a través de los ángulos de cada una de las articulariones (J1-J6).
