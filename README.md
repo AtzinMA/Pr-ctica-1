@@ -114,7 +114,9 @@ Ambos modos de operación son esenciales para obtener mejores resultados en dife
 
 El análisis práctico de los modos de control evidenció cómo "World" facilita movimientos lineales y precisos en un espacio cartesiano, mientras que "Joint" ofrece un control detallado de cada articulación, lo que resulta útil en entornos más complejos. Este conocimiento no solo es fundamental para la programación y operación de robots en aplicaciones industriales, sino que también prepara a los participantes para enfrentar desafíos más avanzados en futuras sesiones prácticas.
 ## Referencias Bibliográficas 
+
 [1] 	EpsonCompany, «Especialistas en automatización industrial». 2024, https://www.epson.es/es_ES/robots
+
 [2] 	EpsonCompany, «Robot Epson C4 de 6 ejes compactos».2024, https://epson.com.mx/Para-el-trabajo/Rob%C3%B3tica/6-Ejes/Robot-Epson-C4-de-6-ejes-compactos/p/RC4-A601ST75
 
 
